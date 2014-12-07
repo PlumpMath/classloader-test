@@ -1,0 +1,1 @@
+Class-Path: ../dir1/package1.jar
